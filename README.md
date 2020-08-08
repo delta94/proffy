@@ -44,10 +44,6 @@
 
 ## 👨🏻‍💻 About the project
 
-<h1 align="center">
-	<img alt="GitHub Image Header" src="https://github.com/eltonlazzarin/ecoleta/blob/master/web/screenshots/githubimageheader.png" />
-</h1>
-
 <p>Proffy is an online study platform, with the aim of connecting education professionals with people interested in learning new subjects. In the web version, the education professional can register to teach classes and/or search for other professionals in order to learn something new, while in the mobile version the user can search for professionals through search filters according to their needs.
 
 This is a project developed during the #NextLevelWeek2. An online programming event given by Rocketseat that shows how to use the JavaScript / TypeScript stack, on the backend with Nodejs, on the frontend with ReactJS and on mobile using the Expo.</p>
