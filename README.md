@@ -197,6 +197,7 @@ This project is under the MIT license. See the [LICENSE](https://github.com/elto
 Technologies that I used to develop this mobile app
 
 - [Expo](https://reactjs.org)
+- [React-Native](https://reactnative.dev/docs/getting-started)
 - [Axios](https://github.com/axios/axios)
 - [@expo-google-fonts](https://github.com/expo/google-fonts)
 - [@react-native-community/async-storage](https://github.com/react-native-community/async-storage)
